@@ -2,7 +2,6 @@
 TasteQuest: Discover & Dine App
 
 
-## Setup
 
 ## Prerequisites
 
